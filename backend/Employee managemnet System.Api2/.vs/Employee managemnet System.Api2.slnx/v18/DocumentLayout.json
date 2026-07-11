@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\payrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\payrolldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\attendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\attendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\employee managemnet system.api2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\employee managemnet system.api2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\models\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\models\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|c:\\users\\hp\\desktop\\employee managemnet system.api2\\employee managemnet system.api2\\employee managemnet system.api2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B05CAACE-05AE-0131-7278-6C305BFFB2C8}|Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj|solutionrelative:employee managemnet system.api2\\employee managemnet system.api2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:14:10.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAuwHsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:13:26.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAuwCkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:15:27.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:47:02.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:43:35.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayrollController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\PayrollController.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Controllers\\PayrollController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\PayrollController.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Controllers\\PayrollController.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAkwKQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:41:19.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PayrollDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\PayrollDTO.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\PayrollDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\PayrollDTO.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\PayrollDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:41:01.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAuwNABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:38:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Payroll.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\Payroll.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Payroll.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\Payroll.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:40:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Attendance.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:37:53.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttendanceSummaryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\AttendanceSummaryDTO.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\AttendanceSummaryDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\AttendanceSummaryDTO.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\AttendanceSummaryDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA3wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:43:58.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\AttendanceDTO.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\AttendanceDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\AttendanceDTO.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\AttendanceDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:38:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Employee.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\Employee.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA9wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:41:27.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Program.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Program.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:50:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\appsettings.json",
+              "RelativeToolTip": "Employee managemnet System.Api2\\appsettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T06:40:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\Department.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:42:01.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee managemnet System.Api2.http",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Employee managemnet System.Api2.http",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Employee managemnet System.Api2.http",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Employee managemnet System.Api2.http",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Employee managemnet System.Api2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-04T09:23:21.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:44:38.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:44:11.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:19:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashboardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\DashboardDTO.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Models\\DTOs\\DashboardDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Models\\DTOs\\DashboardDTO.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Models\\DTOs\\DashboardDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T16:49:02.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Data\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T06:45:04.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employee managemnet System.Api2.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj",
+              "RelativeDocumentMoniker": "Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Employee managemnet System.Api2\\Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj",
+              "RelativeToolTip": "Employee managemnet System.Api2\\Employee managemnet System.Api2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-03T06:39:00.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
